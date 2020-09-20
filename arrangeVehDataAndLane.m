@@ -1,3 +1,5 @@
+% Author : Viranjan Bhattacharyya
+% July 2020
 function [steer, velocity] = arrangeVehDataAndLane(vehList,vehUser)
     x = vehList(:,1);                              %Other vehicle data
     y = vehList(:,2);                             %x,y,v etc. are columns
