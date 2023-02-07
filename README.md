@@ -1,4 +1,4 @@
-# Lane Change Algorithm
+# Lane Change + Speed Guidance Algorithm
 This is a lane change algorithm for a 3 lane highway.
 It tells the driver when to change lane and what speed to follow.
 
